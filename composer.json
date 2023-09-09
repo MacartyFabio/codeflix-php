@@ -1,0 +1,16 @@
+{
+    "name": "macartyf/codeflix-php",
+    "description": "app with php - catalog video",
+    "authors": [
+        {
+            "name": "Macarty Fabio",
+            "email": "macartyfabio@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Core\\": "src/Core/"
+        }
+    },
+    "require": {}
+}
